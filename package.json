@@ -1,0 +1,14 @@
+{
+  "name": "febraga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:felipemessi/febraga.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy --quiet"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
